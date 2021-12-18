@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "taki idle"
+		},
+		{
+			"offsets": [
+				-62,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "taki left note"
+		},
+		{
+			"offsets": [
+				-69,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "taki right note"
+		},
+		{
+			"offsets": [
+				-80,
+				-102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "taki down note"
+		},
+		{
+			"offsets": [
+				7,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "taki up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/taki soft",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "soft-taki",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
